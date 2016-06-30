@@ -5,8 +5,5 @@ jQuery is a powerful JavaScript library that gives developers a new way of inter
 ## Lecture material
 
 ## Helpful Resources
- - Watch these videos on Agile Software Development:
-  - https://www.youtube.com/watch?v=OJflDE6OaSc  
-  - https://www.youtube.com/watch?v=XU0llRltyFM
  - jQuery Cheat sheet: http://oscarotero.com/jquery/
  - jQuery "Basics" course: https://teamtreehouse.com/library/jquery-basics
