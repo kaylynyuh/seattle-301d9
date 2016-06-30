@@ -24,6 +24,7 @@ Let these user stories guide your development:
 
 ## User Stories: Stretch Goals (*not required*)
   1. As a visitor, I want to see projects one per row on mobile, so that I can read the detail easily.
+  2. If you do decide to add content, do not include your github repositories as we will be retrieving them dynamically in week 3!
 
 ## Technical Requirements and Grading Rubric
  - Be sure to use proper `viewport` settings.
