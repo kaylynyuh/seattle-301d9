@@ -2,6 +2,10 @@
 
 Let's develop some mobile/responsive super-powers!
 
+## Pair assignments
+
+Throughout this course, you'll have a structured way to do "pair programming" with your classmates. You will have the opportunity to work with a number of your classmates, benefiting from their backgrounds and perspectives, whether it's technical or otherwise.
+
 With a pair, make the blog responsive, so it hides the main navigation menu under a "Hamburger" link on small screens, and unfurls to a row of tab-like links on larger screens.
 
 Then, see how you can apply these same ideas in your portfolio!
